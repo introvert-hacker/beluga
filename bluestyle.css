@@ -1,8 +1,17 @@
+* {box-sizing: border-box;}
+
 body {
     background-color: lightblue;
 }
 
+/* img {
+    padding: 8px;
+} */
+
 h1 {
     color: navy;
-    text-align: center;
+}
+
+p > img {
+    margin: 0px 12px 12px 0px;
 }
